@@ -1,0 +1,23 @@
+
+
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10%;
+    width: 90vh;
+    height: 50vh;;
+    
+    
+}
+
+.button{
+    box-sizing: border-box;
+    display:block;
+    margin: auto;
+    padding: 1vw 41.2vh;
+    background:linear-gradient(to right, #f3ae00ea, #4fea12ba);
+    color: white;
+    
+    
+}
